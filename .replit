@@ -1,2 +1,2 @@
 language = "bash"
-run = "python3 Basics/prints.py"
+run = "python3 Graphics/basic_mouse.py"
